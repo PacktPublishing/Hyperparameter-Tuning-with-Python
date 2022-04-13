@@ -8,6 +8,8 @@ Chapter 1 - Evaluating Machine Learning Models [![Open In Colab](https://colab.r
 
 Chapter 7 - Hyperparameter Tuning via Scikit [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Hyperparameter-Tuning-with-Python/blob/draft/07_Hyperparameter-Tuning-via-Scikit.ipynb)
 
+Chapter 8 - Hyperparameter Tuning via Hyperopt [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Hyperparameter-Tuning-with-Python/blob/draft/08_Hyperparameter-Tuning-via-Hyperopt.ipynb)
+
 ## To-Do
 
 - Add requirements.txt
