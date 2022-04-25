@@ -10,6 +10,8 @@ Chapter 7 - Hyperparameter Tuning via Scikit [![Open In Colab](https://colab.res
 
 Chapter 8 - Hyperparameter Tuning via Hyperopt [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Hyperparameter-Tuning-with-Python/blob/draft/08_Hyperparameter-Tuning-via-Hyperopt.ipynb)
 
+Chapter 9 - Hyperparameter Tuning via Optuna [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Hyperparameter-Tuning-with-Python/blob/draft/09_Hyperparameter-Tuning-via-Optuna.ipynb)
+
 ## To-Do
 
 - Add requirements.txt
