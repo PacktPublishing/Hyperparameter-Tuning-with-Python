@@ -14,7 +14,7 @@ Chapter 9 - Hyperparameter Tuning via Optuna [![Open In Colab](https://colab.res
 
 ## To-Do
 
-- Add requirements.txt
+- Add requirements.txt (there's conflict in hyperopt version for Chapter 8 and Chapter 10 - version 0.2.7 vs version 0.1.2)
 - Steps to create a conda environment with the dependencies
 - Steps to install Hyperband
 - Change URLs for Colab Notebooks to Master branch once this Draft branch is merged
