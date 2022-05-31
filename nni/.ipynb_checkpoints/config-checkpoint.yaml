@@ -1,0 +1,11 @@
+searchSpaceFile: hyperparameter_space.json
+experimentName: nni_sklearn
+trial_command: python '/mnt/c/Users/Louis\ Owen/Desktop/Packt/Hyperparameter-Tuning-with-Python/nni/model.py'
+trial_code_directory: .
+trial_concurrency: 10
+max_trial_number: 100 
+maxExperimentDuration: 1h
+tuner: 
+  name: GridSearch
+training_service:
+  platform: local 
