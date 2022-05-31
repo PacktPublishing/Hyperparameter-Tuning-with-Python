@@ -19,4 +19,3 @@ Chapter 10 - Advanced Hyperparameter Tuning via DEAP and Microsoft NNI [![Open I
 - Add requirements.txt (there's conflict in hyperopt version for Chapter 8 and Chapter 10 - version 0.2.7 vs version 0.1.2)
 - Steps to create a conda environment with the dependencies
 - Steps to install Hyperband
-- Change URLs for Colab Notebooks to Master branch once this Draft branch is merged
