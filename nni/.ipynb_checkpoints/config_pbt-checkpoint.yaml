@@ -1,0 +1,13 @@
+searchSpaceFile: hyperparameter_space_pbt.json
+trialCommand: python '/mnt/c/Users/Louis\ Owen/Desktop/Packt/Hyperparameter-Tuning-with-Python/nni/model_pbt.py'
+trialGpuNumber: 1
+trialConcurrency: 10
+maxTrialNumber: 100
+maxExperimentDuration: 1h
+tuner:
+  name: PBTTuner
+  classArgs:
+    optimize_mode: maximize
+trainingService:
+  platform: local
+  useActiveGpu: false
