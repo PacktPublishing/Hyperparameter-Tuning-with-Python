@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Louis%20Owen/Desktop/Packt/Hyperparameter-Tuning-with-Python/mlruns/3/51c28df931f4472688d1cbd6eeba898a/artifacts
+end_time: 1656558632776
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: 51c28df931f4472688d1cbd6eeba898a
+run_uuid: 51c28df931f4472688d1cbd6eeba898a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656558632139
+status: 3
+tags: []
+user_id: louisowen6
