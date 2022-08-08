@@ -73,6 +73,8 @@ Chapter 13 - Tracking Hyperparameter Tuning Experiments [![Open In Colab](https:
 
 
 
+
+
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781803235875_ColorImages.pdf).
 
 
