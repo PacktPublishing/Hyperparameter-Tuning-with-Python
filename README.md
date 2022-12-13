@@ -20,7 +20,7 @@ This book covers the following exciting features:
 * Deep dive into top frameworks such as Scikit, Hyperopt, Optuna, NNI, and DEAP
 * Get to grips with best practices that you can apply to your machine learning models right away
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800205694) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/180323587X) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
